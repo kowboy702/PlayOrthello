@@ -1,0 +1,9 @@
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\bin\Debug\PlayOthello.exe.config
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\bin\Debug\PlayOthello.exe
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\bin\Debug\PlayOthello.pdb
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.csprojResolveAssemblyReference.cache
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.frmMain.resources
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.Properties.Resources.resources
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.csproj.GenerateResource.Cache
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.exe
+c:\users\jenson\documents\visual studio 2012\Projects\PlayOthello\PlayOthello\obj\Debug\PlayOthello.pdb
